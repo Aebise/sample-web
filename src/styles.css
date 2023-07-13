@@ -1,0 +1,40 @@
+button {
+  padding: 7px;
+  border: gray;
+}
+h4 {
+  color: #5a6275;
+}
+.temp {
+  display: flex;
+}
+.unit {
+  padding: 5px;
+  text-decoration: none;
+  font-size: 28px;
+}
+
+.current-temp {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 52px;
+  line-height: 48px;
+  margin-bottom: 0;
+}
+#current-city {
+  font-family: "Roboto", sans-serif;
+  font-size: 36px;
+  color: #5a6275;
+}
+.fa-solid.fa-magnifying-glass {
+  font-size: 32px;
+  background: none;
+  color: gray;
+}
+.fa-solid.fa-magnifying-glass:hover {
+  color: black;
+}
+.emoji {
+  text-align: center;
+  font-size: 48px;
+}
